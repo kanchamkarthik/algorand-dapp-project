@@ -1,8 +1,13 @@
-# Project Plan
+# Algorand DApp Idea
 
-This project will explore Algorand blockchain development.
+## Project Title
+Blockchain Based Donation System
 
-## Ideas
-- Create simple smart contracts
-- Learn Algorand SDK
-- Build small decentralized apps
+## Description
+This decentralized application allows users to send transparent donations using Algorand blockchain.
+
+## Features
+- Wallet connection
+- Send ALGO tokens
+- Transaction history
+- Transparent donation tracking
